@@ -1,3 +1,4 @@
+{{ markup() }} as markup,
 select
 --from raw_orders
 orderid,
